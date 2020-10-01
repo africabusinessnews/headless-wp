@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@brightcove/react-player-loader": "^1.4.0",
     "axios": "^0.19.0",
     "nuxt": "^2.0.0"
   },
